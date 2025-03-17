@@ -1,8 +1,4 @@
-
-![Logo](https://i.imgur.com/F86N1G3.png)
-
-
-
+Updates made to origional bot by shrijaybaheti
 
 # AUTO CRYSTAL DUPE BOT
 
